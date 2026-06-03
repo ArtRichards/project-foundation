@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This repository is archived and read-only. The `project-foundation` skill is now maintained
+> as part of the **[Agent Playbook Suite](https://github.com/ArtRichards/agent-playbook-suite)**,
+> under [`plugins/agent-playbook-suite/skills/project-foundation/`](https://github.com/ArtRichards/agent-playbook-suite/tree/main/plugins/agent-playbook-suite/skills/project-foundation).
+> Install it via the suite plugin marketplace rather than cloning this repo. The
+> content below is historical and predates the risk-aware agentic-TDD upgrade.
+
 # project-foundation
 
 A Claude Code skill that bootstraps a new project's foundation — charter, scope, architecture, milestones, definition-of-ready — as a docs-managed Markdown tree.
